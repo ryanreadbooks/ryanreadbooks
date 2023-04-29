@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 🔭 Skills: C/C++, Go
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ryanreadbooks&show_icons=true&count_private=true&theme=gotham)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanreadbooks&layout=compact&hide_border=true&langs_count=10)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanreadbooks&layout=compact&hide_border=true&langs_count=10&theme=gotham)
