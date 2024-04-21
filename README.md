@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Skills: C/C++, Go
+🔭 Skills: Go, C/C++, Python
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanreadbooks&layout=compact&hide_border=true&langs_count=6&theme=ambient_gradient)
