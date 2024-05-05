@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Skills: Go, C/C++, Python
+## 🔭 Skills
+<p align="left"> 
+      <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" ></a>&emsp;
+      <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white " ></a>&emsp;
+      <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white " ></a>&emsp;
+      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" ></a>&emsp;
+</p>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanreadbooks&layout=compact&hide_border=true&langs_count=6&theme=ambient_gradient)
