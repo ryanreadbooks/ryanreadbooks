@@ -1,4 +1,4 @@
-### 👋 Hello, I'm ryanreadbooks 👋
+## 👋 Hello, I'm ryanreadbooks 👋
 
 <!--
 **ryanreadbooks/ryanreadbooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 Skills
+### 🤔 Overview
+![ryanreadbooks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanreadbooks&locale=en&line_height=24&include_all_commits=true&show_icons=true&hide=contribs&theme=ambient_gradient&rank_icon=default&count_private=true&hide_border=true)
+
+---
+
+### 🔭 Skills
 <p align="left"> 
       <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" ></a>&emsp;
       <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white " ></a>&emsp;
