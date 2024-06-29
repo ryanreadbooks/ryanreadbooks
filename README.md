@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### 🔭 Skills
 <p align="left"> 
       <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" ></a>&emsp;
-      <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white " ></a>&emsp;
+      <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white&color=F34B7D " ></a>&emsp;
       <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white " ></a>&emsp;
       <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" ></a>&emsp;
 </p>
