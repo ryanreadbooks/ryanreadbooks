@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🤔 Overview
-![ryanreadbooks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanreadbooks&locale=en&line_height=24&include_all_commits=true&show_icons=true&hide=contribs&theme=ambient_gradient&rank_icon=default&count_private=true&hide_border=true)
+![ryanreadbooks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanreadbooks&locale=en&line_height=24&include_all_commits=true&show_icons=true&hide=contribs&theme=material-palenight&rank_icon=default&count_private=true&hide_border=true)
 
 ---
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
       <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" ></a>&emsp;
 </p>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanreadbooks&layout=compact&hide_border=true&langs_count=6&theme=ambient_gradient)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanreadbooks&layout=compact&hide_border=true&langs_count=6&theme=material-palenight)
